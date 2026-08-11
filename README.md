@@ -21,7 +21,7 @@ My core expertise spans **Predictive Modeling, Time Series Forecasting, Recommen
 * 📊 **Millions-Scale Metric Monitoring System** — Engineered a scalable metric monitoring system capable of processing millions of SKUs in production and backtesting scenarios at Mercado Libre.
 * 🛍️ **High-Conversion Recommendation Engine** — Architected and deployed production recommender systems for PicPay Shop, driving a 30% increase in conversion rates and improving user engagement via iterative A/B testing.
 * 🧾 **Receipt Matching & NLP Pipeline** — Applied NLP and supervised vision/text models to map physical receipt items to retail campaign listings at PicPay, generating 96% in AWS cost savings through architectural optimizations.
-* ⚙️ **Production MLOps Infrastructure** — Built automated MLOps and monitoring pipelines using MLflow and Airflow at PicPay, tracking real-time performance degradation for production supervised models and automatic retraining.
+* ⚙️ **Production MLOps Infrastructure** — Built automated MLOps and monitoring pipelines using MLflow, Databricks and Airflow at PicPay, tracking real-time performance degradation for production supervised models and automatic retraining.
 
 ---
 
