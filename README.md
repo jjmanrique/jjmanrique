@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joao Manrique
+# 👋 Hi, I'm João Manrique
 
 🤖 **Staff Data Scientist — Time Series Forecasting • Large Scale ML • LLMs & RAG**  
 📍 Curitiba, Brazil • 🌎 Remote • 💬 English, Portuguese, Spanish
